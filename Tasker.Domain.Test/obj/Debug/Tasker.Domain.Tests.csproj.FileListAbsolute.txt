@@ -1,0 +1,38 @@
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Tests.csprojResolveAssemblyReference.cache
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.assert.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.core.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.assert.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.assert.xml
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.core.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.core.xml
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\Tasker.Domain.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.assert.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.core.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.assert.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.assert.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.core.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.core.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.pdb

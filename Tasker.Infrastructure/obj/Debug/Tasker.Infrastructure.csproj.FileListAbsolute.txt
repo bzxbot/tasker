@@ -1,0 +1,24 @@
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.dll.config
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\EntityFramework.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\EntityFramework.xml
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.csprojResolveAssemblyReference.cache
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\Tasker.Domain.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure\bin\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.dll.config
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\Tasker.Infrastructure.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\Tasker.Domain.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure\obj\Debug\Tasker.Infrastructure.pdb

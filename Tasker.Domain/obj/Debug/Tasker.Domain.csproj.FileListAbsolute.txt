@@ -1,0 +1,9 @@
+c:\users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\bin\Debug\Tasker.Domain.dll
+c:\users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\bin\Debug\Tasker.Domain.pdb
+c:\users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\obj\Debug\Tasker.Domain.dll
+c:\users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\obj\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\obj\Debug\Tasker.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain\bin\Debug\Tasker.Domain.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain\bin\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain\obj\Debug\Tasker.Domain.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Domain\obj\Debug\Tasker.Domain.pdb

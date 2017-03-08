@@ -1,0 +1,9 @@
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.Test.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Tasker.Domain.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.csprojResolveAssemblyReference.cache
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain.Test\obj\Debug\Tasker.Domain.Test.pdb

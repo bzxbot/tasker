@@ -1,0 +1,16 @@
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\obj\Debug\Tasker.Infrastructure.Test.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\obj\Debug\Tasker.Infrastructure.Test.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll.CodeAnalysisLog.xml
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll.lastcodeanalysissucceeded
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\obj\Debug\Tasker.Infrastructure.Test.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\obj\Debug\Tasker.Infrastructure.Test.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll.CodeAnalysisLog.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Infrastructure.Test\bin\Debug\Tasker.Infrastructure.Test.dll.lastcodeanalysissucceeded

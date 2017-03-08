@@ -1,0 +1,26 @@
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Application.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Application.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Infrastructure.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Domain.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Infrastructure.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\Tasker.Domain.pdb
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\obj\Debug\Tasker.Application.csprojResolveAssemblyReference.cache
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\obj\Debug\Tasker.Application.dll
+c:\Users\bernardo_botelho\documents\visual studio 2015\Projects\Tasker.Domain\Tasker.Application\obj\Debug\Tasker.Application.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\AutoMapper.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\SimpleInjector.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\AutoMapper.xml
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Domain\Tasker.Application\bin\Debug\SimpleInjector.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Application.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Application.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\AutoMapper.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\SimpleInjector.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Domain.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Infrastructure.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Domain.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\Tasker.Infrastructure.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\AutoMapper.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\bin\Debug\SimpleInjector.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\obj\Debug\Tasker.Application.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\obj\Debug\Tasker.Application.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Application\obj\Debug\Tasker.Application.pdb

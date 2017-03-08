@@ -1,0 +1,11 @@
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Core\bin\Debug\Tasker.Core.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Core\bin\Debug\Tasker.Core.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Core\obj\Debug\Tasker.Core.dll
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Core\obj\Debug\Tasker.Core.pdb
+C:\Users\Bernardo_Botelho\Documents\Visual Studio 2015\Projects\Tasker.Core\obj\Debug\Tasker.Core.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\bin\Debug\Tasker.Core.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\bin\Debug\Tasker.Core.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\obj\Debug\Tasker.Core.dll
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\obj\Debug\Tasker.Core.pdb
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\bin\Debug\Tasker.Core.dll.CodeAnalysisLog.xml
+C:\Users\Bernardo_Botelho\Librarium\Temporary\tasker\Tasker.Core\bin\Debug\Tasker.Core.dll.lastcodeanalysissucceeded
